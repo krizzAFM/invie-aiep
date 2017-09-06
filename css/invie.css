@@ -101,7 +101,7 @@ body {
 .derecha {
     float: right;
     position: relative;
-    top: -127px;
+    top: -1px;
 }
 
 .izquierda {
